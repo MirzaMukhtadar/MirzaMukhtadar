@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me ...
+- 📫 reach me @ mukhtadar09@gmail.com
 
 <!---
 MirzaMukhtadar/MirzaMukhtadar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
