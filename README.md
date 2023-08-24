@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MirzaMukhtadar
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently mastering ReactJS
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 reach me @ mukhtadar09@gmail.com
 
