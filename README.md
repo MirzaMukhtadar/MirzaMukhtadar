@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MirzaMukhtadar
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 reach out to me @ mukhtadar09@gmail.com
+- 👋 Hi, I’m @MirzaMukhtadar.
+- 👀 I’m interested in Frontend Development.
+- 🌱 I’m currently learning ReactJS.
+- 💞️ I’m looking to collaborate on frontend projects.
+- 📫 reach out to me @ mukhtadar09@gmail.com.
 
 <h2> 🚀 &nbsp;Some Tools and Technologies I Have Used and Learned</h2>
 <p align="left">
