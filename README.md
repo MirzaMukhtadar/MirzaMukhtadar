@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MirzaMukhtadar
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently mastering ReactJS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 reach me @ mukhtadar09@gmail.com
+- 📫 reach out to me @ mukhtadar09@gmail.com
 
 <!---
 MirzaMukhtadar/MirzaMukhtadar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
