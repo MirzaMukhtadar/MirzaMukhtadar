@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 reach out to me @ mukhtadar09@gmail.com.
 
-<h2> 🚀 &nbsp;Some Tools and Technologies I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools and Technologies I Have Used and Learned.</h2>
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60" /> &nbsp;
